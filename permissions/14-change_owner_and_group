@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -exe chown vicent:staff
+find . vicent:staff
