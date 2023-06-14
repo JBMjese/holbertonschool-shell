@@ -1,2 +1,2 @@
 #!/bin/bash
-find . vicent:staff .
+chown -R vicent:staff .
