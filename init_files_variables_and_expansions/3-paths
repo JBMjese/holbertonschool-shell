@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | wc -l
+echo $(find PANT type d | wc -l)
